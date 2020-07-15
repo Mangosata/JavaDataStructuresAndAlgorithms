@@ -1,4 +1,4 @@
-package com.sata.sparsearray;
+package com.sata.sparseArray;
 
 /**
  * @author Bin Jia
